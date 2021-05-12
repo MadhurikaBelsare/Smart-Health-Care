@@ -9,6 +9,12 @@
 - Snapshots
 - Conclusion and Future work
 - Creators
+- Deployment Link
+
+### Note :-
+
+We upload all the models in model folder if you want to run the seprate files of diseases then you have to copy the respective model from model folder and paste in the respective location.
+
 
 **1. Introduction :**
 
@@ -42,7 +48,7 @@ These are the links where you can find the datasets
 
 These is the System Architecture in the way the work flow of program will run.
 
-![](images/SA.png)
+![](images/SA.jpg)
 
 **What is CNN?**
 
@@ -103,8 +109,9 @@ The main goal of this Project is to use ML for disease diagnosis and, thus, the 
 
 [Madhurika Belsare](https://www.linkedin.com/in/madhurika-belsare-9a144b117/)
 
+### 8. Deployment Link :
 
-
+[SHC](https://smart-hcs.herokuapp.com/)
 
 
 
