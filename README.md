@@ -105,9 +105,10 @@ The main goal of this Project is to use ML for disease diagnosis and, thus, the 
  
 [Harshal Chambare](https://www.linkedin.com/in/harshal-chambhare-999048209/)
 
+[Madhurika Belsare](https://www.linkedin.com/in/madhurika-belsare-9a144b117/)
+
 [Samiksha Bhange](https://www.linkedin.com/in/samiksha-bhange-2750751a8/)
 
-[Madhurika Belsare](https://www.linkedin.com/in/madhurika-belsare-9a144b117/)
 
 ### 8. Deployment Link :
 
